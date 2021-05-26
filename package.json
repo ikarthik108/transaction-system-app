@@ -1,0 +1,23 @@
+{
+  "name": "BANKIST-APP-ARRAYS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "deploy": "gh -d dist "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikarthik108/transaction-system-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ikarthik108/transaction-system-app/issues"
+  },
+  "homepage": "https://github.com/ikarthik108/transaction-system-app",
+  "devDependencies": {
+    "gh-pages": "^3.2.0"
+  }
+}
